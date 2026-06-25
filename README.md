@@ -151,6 +151,3 @@ ACS College of Engineering
 ## 📄 License
 
 This project is developed for educational and academic purposes.
-
-
-This README is professional, recruiter-friendly, and suitable for showcasing your final-year project on GitHub.
